@@ -1,0 +1,30 @@
+[
+    {
+        "keys": ["ctrl+up"],
+        "command": "block_travel",
+        "args": {
+            "cmd": "up"
+        }
+    },
+    {
+        "keys": ["ctrl+down"],
+        "command": "block_travel",
+        "args": {
+            "cmd": "down"
+        }
+    },
+    {
+        "keys": ["ctrl+shift+down"],
+        "command": "block_travel",
+        "args": {
+            "cmd": "select_down"
+        }
+    },
+        {
+        "keys": ["ctrl+shift+up"],
+        "command": "block_travel",
+        "args": {
+            "cmd": "select_up"
+        }
+    }
+]

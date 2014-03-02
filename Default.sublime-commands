@@ -1,0 +1,78 @@
+[
+    {
+        "caption": "Preferences: BlockTravel Key Bindings – Default",
+        "command": "block_travel",
+        "args": {
+            "file": "${packages}/BlockTravel/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: BlockTravel Key Bindings – Default",
+        "command": "block_travel",
+        "args": {
+            "file": "${packages}/BlockTravel/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: BlockTravel Key Bindings – Default",
+        "command": "block_travel",
+        "args": {
+            "file": "${packages}/BlockTravel/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    },
+    {
+        "caption": "Preferences: BlockTravel Key Bindings – User",
+        "command": "block_travel",
+        "args": {
+            "file": "${packages}/User/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: BlockTravel Key Bindings – User",
+        "command": "block_travel",
+        "args": {
+            "file": "${packages}/User/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: BlockTravel Key Bindings – User",
+        "command": "block_travel",
+        "args": {
+            "file": "${packages}/User/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    },
+    {
+        "caption": "BlockTravel: Move up lines",
+        "command": "block_travel",
+        "args": {
+            "cmd": "up"
+        }
+    },
+    {
+        "caption": "BlockTravel: Move down lines",
+        "command": "block_travel",
+        "args": {
+            "cmd": "down"
+        }
+    },
+    {
+        "caption": "BlockTravel: Select up lines",
+        "command": "block_travel",
+        "args": {
+            "cmd": "select_up"
+        }
+    },
+    {
+        "caption": "BlockTravel: Select down lines",
+        "command": "block_travel",
+        "args": {
+            "cmd": "select_down"
+        }
+    }
+]
